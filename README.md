@@ -5,7 +5,10 @@ program実行後に表示されたRGB画像上でカーソルをクリックし�
 ## How to use  
 ### Ready  
 Realsense D435, PC
-まだrelasense をpythonで動かす準備をしたことない人は  
+まだrelasense をpythonで動かす準備をしたことない人はpipでpyrealsense をインストールするなりして下さい  
+```
+pip3 install pyrealsense2
+```
 ### Use  
 terminalを立ち上げて以下のcommandを実行
 ```
