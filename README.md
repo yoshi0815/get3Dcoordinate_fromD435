@@ -1,7 +1,8 @@
 # get3Dcoordinate_fromD435
 ## Purpose  
 Get 3D coorinate from Realsense D435
-program実行後に表示されたRGB画像上でカーソルをクリックした箇所の三次元座標[m]（D435を原点）を取得する
+program実行後に表示されたRGB画像上でカーソルをクリックした箇所の三次元座標[m]（D435を原点）を取得する  
+なお、RGB画像とdepthの画角のサイズは合わせている
 ## How to use  
 ### Ready  
 Realsense D435, PC
